@@ -8,7 +8,7 @@ and Spring-test -- and also introduces the `@Slow` annotation to tag any unit te
 
 * Import into your Java project:
 
-```java
+```xml
 <dependency>
    <groupId>com.elsevier.test</groupId>
    <artifactId>java-test-support</artifactId>
