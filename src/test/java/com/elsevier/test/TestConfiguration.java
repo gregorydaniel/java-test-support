@@ -1,4 +1,4 @@
-package com.elsevier.kafka;
+package com.elsevier.test;
 
 import org.springframework.context.annotation.Configuration;
 
